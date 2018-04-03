@@ -9,7 +9,7 @@ this provides all the function needed to do the translate
 
 ## Installation
 ```
-npm install KgLbConverter
+npm install kg-lb-converter
 ```
 ## Use
 
