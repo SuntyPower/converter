@@ -1,0 +1,16 @@
+{
+  "name": "kg-lb-converter",
+  "version": "0.0.1",
+  "description": "converter of lb to kg and kg to lb",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "build": "babel src/index.js -d dist"
+  },
+  "author": "Guillermo O. Anselmi",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "dependencies": {}
+}
